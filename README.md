@@ -57,6 +57,7 @@ GEMINI_API_KEY=your_gemini_api_key
 ```
 
 ### 📸 Screenshots
+![ReviewBot UI](./Screenshot%202025-07-24%20113158.png)
 
 
 🧑‍💻 Author
